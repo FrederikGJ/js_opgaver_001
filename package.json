@@ -1,0 +1,12 @@
+{
+  "name": "opgaver001",
+  "version": "1.0.0",
+  "description": "> her er de opgaver som vi har tirsdag der handler om js og html og DOM osv",
+  "main": "lolo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
