@@ -1,4 +1,4 @@
-# Opgaver til tirsdagen osv
+# Opgaver til trisdag
 
 > her er de opgaver som vi har tirsdag der handler om js og html og DOM osv
 
